@@ -1,6 +1,6 @@
 ### LOADING DATA AND LIBRARIES ################################################
 setwd("") #set directory
-load("AOP_dataset.Rdata") #can be found in repository
+load("AOP_dataset.Rdata") #info can be found in repository
 
 
 library(tidyverse)
